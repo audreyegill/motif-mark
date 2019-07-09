@@ -6,10 +6,11 @@
 ###                ###
 ######################
 
-import argparse
-import re
-import sys
+import regex as re
 import cairo
+import argparse
+import os
+from math import ceil
 
 
 ########################
